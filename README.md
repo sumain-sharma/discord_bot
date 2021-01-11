@@ -10,7 +10,7 @@ A discord bot having following functionalities:
 - Python - 3.7.6
 
 # Installation:
-1. Clone the repo
+1. Clone the repo.
 2. Open terminal inside "discord_bot" dir.
 3. Install virtualenv package:&nbsp;&nbsp;<code> pip3 install virtualenv </code>
 4. Create a virtualenv: &nbsp;&nbsp;<code> python3 -m virtualenv venv </code>
